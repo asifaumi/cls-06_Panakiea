@@ -153,6 +153,7 @@ nav ul li a:hover
     {
         margin: 25px 0px;
         font-size: 14px;
+        line-height: 25px;
     }
 
 .read-more 
