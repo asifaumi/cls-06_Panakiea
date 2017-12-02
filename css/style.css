@@ -100,7 +100,7 @@ nav ul li a:hover
     {
         position: absolute;
         width: 100%;
-        top: 30%;
+        top: 27%;
     }
 
 .banner-heading 
@@ -469,7 +469,8 @@ input:hover
 .part a:hover
     {
         color: #fff;
-        text-decoration: underline;
+        padding-left: 10px;
+/*        text-decoration: underline;*/
     }
 
 .overlay_two
