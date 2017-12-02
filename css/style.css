@@ -90,6 +90,7 @@ nav ul li a:hover
     {
         background-image: url(../images/banner.jpg);
         background-size: cover;
+        background-attachment: fixed;
         background-repeat: no-repeat;
         min-height: 140vh;
         position: relative;
@@ -251,6 +252,7 @@ nav ul li a:hover
         background-repeat: no-repeat;
         padding: 60px 0;
         position: relative;
+        background-attachment: fixed;
     }
 
 .overlay_one
