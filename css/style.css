@@ -470,6 +470,7 @@ input:hover
     {
         color: #fff;
         padding-left: 10px;
+        transition: all 0.85s ease;
 /*        text-decoration: underline;*/
     }
 
